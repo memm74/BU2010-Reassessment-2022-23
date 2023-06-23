@@ -1,0 +1,1 @@
+var fdc__widgets__="object"==typeof fdc__widgets__?fdc__widgets__:{};fdc__widgets__.WTickerBand=(window.webpackJsonp=window.webpackJsonp||[]).push([[28],[],[[1236,1,2,4,3,42]]]);
